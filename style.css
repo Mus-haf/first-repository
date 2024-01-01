@@ -1,0 +1,45 @@
+*{
+    margin: 15px;
+    background-color: orangered;
+}
+h1{
+    text-align: center;
+}
+.one{
+    background-color: #fff; 
+    border:20px solid #fff;
+    width: 400px;
+    height: 500px;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    font-size: larger;
+}
+.two{
+    background-color: #fff;
+    border: 20px solid #fff;
+    width: 400px;
+    height: 500px;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    font-size: larger;
+}
+.three{
+    background-color: #fff; 
+    border: 20px solid #fff;
+    width: 400px;
+    height: 500px;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    font-size: larger;
+}
+.ali{
+    background-color: #fff;
+    color: orangered;
+    font-size:50px ;
+}
